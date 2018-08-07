@@ -470,9 +470,9 @@
     },
     {
       "author": "hsanjuan",
-      "hash": "QmadMhXJLHMFjpRmh85XjpmVDkEtQpNYEZNRpWRvYVLrvb",
+      "hash": "QmcD7SqfyQyA91TZUQ7VPRYbGarxmY7EsQewVYMuN5LNSv",
       "name": "go-ipfs-blockstore",
-      "version": "0.0.11"
+      "version": "0.0.12"
     },
     {
       "author": "why",
@@ -512,9 +512,9 @@
     },
     {
       "author": "hsanjuan",
-      "hash": "QmS6mo1dPpHdYsVkm27BRZDLxpKBCiJKUH8fHX15XFfMez",
+      "hash": "QmWdao8WJqYU65ZbYQyQWMFqku6QFxkPiv8HSUAkXdHZoe",
       "name": "go-ipfs-exchange-offline",
-      "version": "0.0.9"
+      "version": "0.0.10"
     },
     {
       "author": "Stebalien",
@@ -548,33 +548,33 @@
     },
     {
       "author": "why",
-      "hash": "Qmci3cVjeSogPBpJQyUfqPC8mcz1JMdqNwq3LDhoEH4ehH",
+      "hash": "QmNgGXeuaQRR1cy5EbX71R5P6Y8edFyH4GLZxbYd76n6ag",
       "name": "go-bitswap",
-      "version": "1.0.2"
+      "version": "1.0.3"
     },
     {
       "author": "why",
-      "hash": "QmfZ5oGGgsx71QcHb6junfFCMGhYWkK8VV61nkCFyt8e5Q",
+      "hash": "QmUSuYd5Q1N291DH679AVvHwGLwtS1V9VPDWvnUN9nGJPT",
       "name": "go-blockservice",
-      "version": "1.0.3"
+      "version": "1.0.4"
     },
     {
       "author": "why",
-      "hash": "Qma2BR57Wqp8w9vPreK4dEzoXXk8DFFRL3LresMZg4QpzN",
+      "hash": "QmeCaeBmCCEJrZahwXY4G2G8zRaNBWskrfKWoQ6Xv6c1DR",
       "name": "go-merkledag",
-      "version": "1.0.2"
-    },
-    {
-      "author": "why",
-      "hash": "Qme34dT9spiPgunbueNtziRX4SvfLHDFZQvmTBVK8p4qNT",
-      "name": "go-path",
       "version": "1.0.3"
     },
     {
       "author": "why",
-      "hash": "QmWdTRLi3H7ZJQ8s7NYo8oitz5JHEEPKLn1QPMsJVWg2Ew",
+      "hash": "Qmet61sdJdo6ZHDc59ZbffN5ED79K5kqfqkRjBx7ncaDg4",
+      "name": "go-path",
+      "version": "1.0.4"
+    },
+    {
+      "author": "why",
+      "hash": "QmXBooHftCHoCUmwuxSibWCgLzmRw2gd2FBTJowsWKy9vE",
       "name": "go-unixfs",
-      "version": "1.0.2"
+      "version": "1.0.3"
     }
   ],
   "gxVersion": "0.10.0",
