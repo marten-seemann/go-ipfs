@@ -74,7 +74,7 @@ require (
 	github.com/libp2p/go-libp2p-peerstore v0.2.6
 	github.com/libp2p/go-libp2p-pubsub v0.3.1
 	github.com/libp2p/go-libp2p-pubsub-router v0.3.0
-	github.com/libp2p/go-libp2p-quic-transport v0.7.2-0.20200724040436-6a550cfb5763
+	github.com/libp2p/go-libp2p-quic-transport v0.7.2-0.20200811114806-8c19efd8e108
 	github.com/libp2p/go-libp2p-record v0.1.3
 	github.com/libp2p/go-libp2p-routing-helpers v0.2.3
 	github.com/libp2p/go-libp2p-secio v0.2.2
